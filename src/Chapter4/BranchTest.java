@@ -2,12 +2,12 @@ package Chapter4;
 
 public class BranchTest {
     public static void main(String[] args) {
-        int score = 60;
+        String score = "123";
         switch (score){
-            case 60:
+            case "123":
                 System.out.println("及格");
                 break;
-            case 80:
+            case "456":
                 System.out.println("优秀");
                 break;
             default:
