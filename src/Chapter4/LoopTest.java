@@ -19,6 +19,31 @@ public class LoopTest {
         for(;count3 < 10; count3++){
             System.out.println(count3);
         }
+
+        //break跳出外层循环
+        //outer作为标示符
+        outer:
+        for(int i=0 ; i<10 ; i++){
+            for(int j=0 ; j<10 ; j++){
+                System.out.println("i的值是：" + i + " j的值是：" + j);
+                if(j==1){
+                    //跳出外层循环
+                    break outer;
+                }
+            }
+        }
+
+        //continue跳出外层循环
+        outer:
+        for(int i=0 ; i<3 ; i++){
+            for(int j=0 ; j<3 ; j++){
+                if(j==1){
+                    //跳出外层循环
+                     continue outer;
+                }
+                System.out.println("i的值是：" + i + " j的值是：" + j);
+            }
+        }
         System.out.println("循环结束！");
     }
 }
