@@ -33,8 +33,8 @@ public class ArrayTest {
         s2.age = 23;
         p[0] = s1;
         p[1] = s2;
-        p[0].Info();
-        p[1].Info();
+        p[0].info();
+        p[1].info();
 
 
         //二维数组
@@ -55,10 +55,11 @@ public class ArrayTest {
     }
 }
 
+
 class Person{
     public int age;
     public double height;
-    public void Info(){
+    public void info(){
         System.out.println("年龄是：" + age + ", 身高是：" + height);
     }
 }
