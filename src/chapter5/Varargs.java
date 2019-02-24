@@ -1,4 +1,4 @@
-package Chapter5;
+package chapter5;
 
 /**
  * @author Crossing
@@ -6,7 +6,7 @@ package Chapter5;
  */
 public class Varargs {
 
-    //形参数卡可变的方法一
+    //形参数可变的方法一
     public static void test(int a , String... books){
         for (String book :
                 books) {
@@ -15,7 +15,7 @@ public class Varargs {
         System.out.println(a + "\n");
     }
 
-    //形参数卡可变的方法二
+    //形参数可变的方法二
     public static void test1(int a , String[] books){
         for (String book :
                 books) {
