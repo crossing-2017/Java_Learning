@@ -15,6 +15,7 @@ public class ReferenceTransferTest {
         dp.a = dp.b;
         dp.b = temp;
         System.out.println("a = " + dp.a + ", b = " + dp.b);
+        dp = null;
     }
 
     public static void main(String[] args){
