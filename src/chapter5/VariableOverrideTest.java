@@ -12,7 +12,8 @@ public class VariableOverrideTest {
         int price = 12;
         System.out.println(price);
         System.out.println(VariableOverrideTest.price);
-       new VariableOverrideTest().info();
+        new VariableOverrideTest().info();
+
     }
 
     /**
@@ -20,6 +21,7 @@ public class VariableOverrideTest {
      * 当没有用static修饰的变量和方法在调用是要新建对象，可以通过this关键字调用类中的成员变量
      */
     public void info(){
+        //VariableOverrideTest.main(new String[]{"123", "234"});
         System.out.println(price);
         int age = 35;
         System.out.println(age);
