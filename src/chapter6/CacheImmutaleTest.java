@@ -9,7 +9,7 @@ public class CacheImmutaleTest {
     public static void main(String[] args) {
         CacheImmutale c1 = CacheImmutale.valueOf("hello");
         CacheImmutale c2 = CacheImmutale.valueOf("hello");
-        System.out.println(c1.equals(c2));
+        System.out.println(c1==c2);
     }
 }
 
@@ -54,6 +54,11 @@ class CacheImmutale{
     }
 
 
+    /**
+     * 对equals方法重写
+     * @param obj
+     * @return
+     */
     @Override
     public boolean equals(Object obj){
         if(this == obj){
