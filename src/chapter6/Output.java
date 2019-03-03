@@ -10,21 +10,21 @@ public interface Output {
     int  MAX_CACHE_LINE = 30;
 
     //接口的权限只能是public abstract类型
-     void put();
+     void out();
      void getData(String msg);
 
      //默认方法和静态方法必须要有方法体
-     default void test(){
+    //都要用public修饰，并且默认方法不能添加static
+    default void test(){
          System.out.println("默认的test（）方法");
      }
 
-     default void print(String... msgs){
+     public default void print(String... msgs){
          for (String msg :
                  msgs) {
              System.out.println(msg);
          }
      }
-    //静态方法的权限是public
       public static String staticTest(){
          return "接口里的静态方法";
      }
