@@ -23,6 +23,8 @@ public class Printer implements Output, Product{
     public void getData(String msg) {
         if(dataNum >= MAX_CACHE_LINE){
             System.out.println("输出队列已满，添加失败");
+        }else {
+            System.out.println(msg);
         }
     }
 

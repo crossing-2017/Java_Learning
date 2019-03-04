@@ -19,7 +19,7 @@ public interface Output {
          System.out.println("默认的test（）方法");
      }
 
-     public default void print(String... msgs){
+     default void print(String... msgs){
          for (String msg :
                  msgs) {
              System.out.println(msg);
