@@ -6,13 +6,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e99edb05-3518-4244-870c-22c2a135d19a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter6/AnonymousInner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/AnonymousTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/PrintCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/ProcessArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/SumCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/EnumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/GenderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/SeasonEnumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Learning/chapter6/CommandTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_Learning/chapter6/CommandTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter6/CommandTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/CommandTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,26 +40,26 @@
           <entry key="class" value="1" />
           <entry key="gitignore" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="104" />
+          <entry key="java" value="121" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="104" />
+          <entry key="JAVA" value="121" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="35" />
-          <entry key="java" value="15888" />
+          <entry key="java" value="17321" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="15888" />
+          <entry key="JAVA" value="17321" />
           <entry key="PLAIN_TEXT" value="35" />
         </counts>
       </usages-collector>
@@ -66,115 +68,70 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter6/AnonymousInner.java">
+        <entry file="file://$PROJECT_DIR$/src/chapter6/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="933">
-              <caret line="57" column="25" lean-forward="true" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="25" />
-              <folding>
-                <element signature="e#150#151#0" expanded="true" />
-                <element signature="e#241#242#0" expanded="true" />
-                <element signature="e#436#437#0" expanded="true" />
-                <element signature="e#476#477#0" expanded="true" />
-                <element signature="e#710#711#0" expanded="true" />
-                <element signature="e#753#754#0" expanded="true" />
-                <element signature="e#814#815#0" expanded="true" />
-                <element signature="e#857#858#0" expanded="true" />
-                <element signature="e#297#298#0" expanded="true" />
-                <element signature="e#329#330#0" expanded="true" />
-                <element signature="e#369#370#0" expanded="true" />
-                <element signature="e#401#402#0" expanded="true" />
-                <element signature="e#819#820#0" expanded="true" />
-                <element signature="e#846#847#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="120">
+              <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter6/AnonymousTest.java">
+        <entry file="file://$PROJECT_DIR$/src/chapter6/SeasonEnumTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+            <state relative-caret-position="168">
+              <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter6/Command.java">
+        <entry file="file://$PROJECT_DIR$/src/chapter6/CommandTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="389">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter6/EnumTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+              <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter6/Gender.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+              <folding>
+                <element signature="e#172#173#0" expanded="true" />
+                <element signature="e#203#204#0" expanded="true" />
+                <element signature="e#704#705#0" expanded="true" />
+                <element signature="e#730#731#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chapter6/ProcessArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-              <folding>
-                <element signature="e#160#161#0" expanded="true" />
-                <element signature="e#182#183#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter6/PrintCommand.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter6/SumCommand.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter6/Shape.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="e#454#455#0" expanded="true" />
-                <element signature="e#482#483#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter6/Output.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter6/Product.java">
+        <entry file="file://$PROJECT_DIR$/src/chapter6/Operation.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="192">
-              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter5/Wolf.java">
+        <entry file="file://$PROJECT_DIR$/src/chapter6/GenderTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6">
-              <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+            <state relative-caret-position="288">
+              <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -185,6 +142,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -195,13 +153,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Chapter5/ReferenceTransferTest.java" />
-        <option value="$PROJECT_DIR$/src/Chapter5/Varargs.java" />
-        <option value="$PROJECT_DIR$/src/Chapter5/Recursive.java" />
-        <option value="$PROJECT_DIR$/src/chapter1_3/HelloWorld.java" />
-        <option value="$PROJECT_DIR$/src/chapter5/Recursive.java" />
-        <option value="$PROJECT_DIR$/src/chapter5/OverloadVarargs.java" />
-        <option value="$PROJECT_DIR$/src/chapter5/ConstractorTest.java" />
         <option value="$PROJECT_DIR$/src/chapter5/PersonTest.java" />
         <option value="$PROJECT_DIR$/src/chapter5/PersonTest1.java" />
         <option value="$PROJECT_DIR$/src/chapter5/ConstractorOverload.java" />
@@ -242,10 +193,17 @@
         <option value="$PROJECT_DIR$/src/chapter6/Product.java" />
         <option value="$PROJECT_DIR$/src/chapter6/AnonymousInner.java" />
         <option value="$PROJECT_DIR$/src/chapter6/AnonymousTest.java" />
-        <option value="$PROJECT_DIR$/src/chapter6/Command.java" />
         <option value="$PROJECT_DIR$/src/chapter6/ProcessArray.java" />
         <option value="$PROJECT_DIR$/src/chapter6/PrintCommand.java" />
         <option value="$PROJECT_DIR$/src/chapter6/SumCommand.java" />
+        <option value="$PROJECT_DIR$/src/chapter6/Command.java" />
+        <option value="$PROJECT_DIR$/src/chapter6/Solution.java" />
+        <option value="$PROJECT_DIR$/src/chapter6/CommandTest.java" />
+        <option value="$PROJECT_DIR$/src/chapter6/SeasonEnumTest.java" />
+        <option value="$PROJECT_DIR$/src/chapter6/EnumTest.java" />
+        <option value="$PROJECT_DIR$/src/chapter6/GenderTest.java" />
+        <option value="$PROJECT_DIR$/src/chapter6/Gender.java" />
+        <option value="$PROJECT_DIR$/src/chapter6/Operation.java" />
       </list>
     </option>
   </component>
@@ -390,7 +348,7 @@
     <property name="SearchEverywhereHistoryKey" value="{&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551692321914" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551769566857" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -407,33 +365,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CommandTest">
-    <configuration name="AnonymousInner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter6.AnonymousInner" />
-      <module name="Java_Learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AnonymousTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter6.AnonymousTest" />
-      <module name="Java_Learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Operation">
     <configuration name="CommandTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter6.CommandTest" />
       <module name="Java_Learning" />
@@ -447,8 +379,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreateInnerInstance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter6.CreateInnerInstance" />
+    <configuration name="EnumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6.EnumTest" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
@@ -460,8 +392,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreateStaticInnerInstance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter6.CreateStaticInnerInstance" />
+    <configuration name="GenderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6.GenderTest" />
+      <module name="Java_Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Operation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6.Operation" />
+      <module name="Java_Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6.Solution" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
@@ -474,19 +432,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CreateInnerInstance" />
-      <item itemvalue="Application.CreateStaticInnerInstance" />
-      <item itemvalue="Application.AnonymousTest" />
-      <item itemvalue="Application.AnonymousInner" />
       <item itemvalue="Application.CommandTest" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.EnumTest" />
+      <item itemvalue="Application.GenderTest" />
+      <item itemvalue="Application.Operation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Operation" />
+        <item itemvalue="Application.GenderTest" />
+        <item itemvalue="Application.EnumTest" />
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.CommandTest" />
-        <item itemvalue="Application.AnonymousTest" />
-        <item itemvalue="Application.AnonymousInner" />
-        <item itemvalue="Application.CreateStaticInnerInstance" />
-        <item itemvalue="Application.CreateInnerInstance" />
       </list>
     </recent_temporary>
   </component>
@@ -509,12 +467,12 @@
       <workItem from="1550918858113" duration="256000" />
       <workItem from="1550919119578" duration="15273000" />
       <workItem from="1551260919613" duration="14408000" />
-      <workItem from="1551613537068" duration="11275000" />
+      <workItem from="1551613537068" duration="17396000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51705000" />
+    <option name="totallyTimeSpent" value="57826000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -594,74 +552,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/Java_Learning.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter5/ConstractorOverload.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="29" column="68" selection-start-line="29" selection-start-column="68" selection-end-line="29" selection-end-column="68" />
-          <folding>
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter5/OverrideTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-          <folding>
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#195#196#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter5/InstanceofTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="828" column="26" selection-start-line="828" selection-start-column="26" selection-end-line="828" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-223">
-          <caret line="110" column="25" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/SingletonTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter5/InstanceInitTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter5/FinalTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter5/PersonTest1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="201">
@@ -916,13 +806,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/FinalVariableTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter6/OutPutFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="385">
@@ -1028,13 +911,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/Command.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter6/PrintCommand.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -1042,21 +918,111 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter6/FinalVariableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter6/SumCommand.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        <state relative-caret-position="168">
+          <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter6/ProcessArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        <state relative-caret-position="192">
+          <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
           <folding>
             <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter6/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter4/ArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5/InstanceInitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter4/Gobang.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter6/CommandTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter6/SeasonEnumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter6/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter6/EnumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter6/GenderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter6/Gender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding>
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#704#705#0" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter6/Operation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
         </state>
       </provider>
     </entry>
