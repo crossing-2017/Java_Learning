@@ -11,7 +11,7 @@ import java.lang.ref.WeakReference;
 public class ReferenceTest {
 
     public static void main(String[] args) {
-        String str = new String("疯狂的java讲义");
+        String str = "疯狂的java讲义";
         WeakReference<String> stringWeakReference = new WeakReference<>(str);
         str = "123";
         System.out.println(stringWeakReference.get());
