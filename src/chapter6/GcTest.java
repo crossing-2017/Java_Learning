@@ -1,9 +1,9 @@
 package chapter6;
 
-import org.omg.SendingContext.RunTime;
-
 /**
  * 内存回收测试
+ * @author Crossing
+ * @date 2019-03-06
  */
 public class GcTest {
 
@@ -16,7 +16,8 @@ public class GcTest {
         for (int i = 0 ; i < 4 ; i++){
             new GcTest();
             System.gc();
-            //RunTime.getRunTime().gc();
+            //这两种方法的效果是一样的
+            //Runtime.getRuntime().gc();
         }
     }
 }
