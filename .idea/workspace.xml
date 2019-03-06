@@ -6,11 +6,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e99edb05-3518-4244-870c-22c2a135d19a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter7/_2/IdentityHashCodeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/_2/RuntimeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/_2/SystemTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/_3/Arith.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/_3/CloneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/_3/RandomTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/_3/StringBuilderTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_Learning/chapter7/_1/ScannerFileTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_Learning/chapter7/_1/ScannerFileTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,7 +36,7 @@
           <entry key="class" value="2" />
           <entry key="gitignore" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="136" />
+          <entry key="java" value="141" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
@@ -44,19 +44,19 @@
         <counts>
           <entry key="CLASS" value="2" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="136" />
+          <entry key="JAVA" value="141" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="36" />
-          <entry key="java" value="19317" />
+          <entry key="java" value="20674" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="19317" />
+          <entry key="JAVA" value="20674" />
           <entry key="PLAIN_TEXT" value="36" />
         </counts>
       </usages-collector>
@@ -64,24 +64,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter6/ReferenceTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter7/_1/ArgsTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chapter7/_1/ScannerKeyBoardTest.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -106,8 +88,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chapter7/_2/SystemTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+            <state relative-caret-position="-105">
+              <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -116,19 +98,59 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter7/_2/IdentityHashCodeTest.java">
+        <entry file="file://$PROJECT_DIR$/src/chapter7/_3/CloneTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+            <state relative-caret-position="-181">
+              <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+              <folding>
+                <element signature="e#184#185#0" expanded="true" />
+                <element signature="e#219#220#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter7/_3/StringBuilderTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="21" column="53" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter7/_3/RandomTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chapter7/_3/Arith.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="66" column="4" selection-start-line="66" selection-start-column="4" selection-end-line="66" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter7/_2/IdentityHashCodeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chapter7/_2/RuntimeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+            <state relative-caret-position="312">
+              <caret line="13" column="57" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -157,10 +179,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/chapter6/PrintObject.java" />
-        <option value="$PROJECT_DIR$/src/chapter6/ToStringTest.java" />
-        <option value="$PROJECT_DIR$/src/chapter5/Varargs.java" />
-        <option value="$PROJECT_DIR$/src/chapter6/SingletonTest.java" />
         <option value="$PROJECT_DIR$/src/chapter5/VariableOverrideTest.java" />
         <option value="$PROJECT_DIR$/src/chapter6/FinalVariableTest.java" />
         <option value="$PROJECT_DIR$/src/chapter6/finalReferenceTest.java" />
@@ -204,10 +222,14 @@
         <option value="$PROJECT_DIR$/src/chapter7/ScannerKeyBoardTest.java" />
         <option value="$PROJECT_DIR$/src/chapter7/_1/ScannerKeyBoardTest.java" />
         <option value="$PROJECT_DIR$/src/chapter7/_1/ScannerFileTest.java" />
-        <option value="$PROJECT_DIR$/src/chapter7/_2/SystemTest.java" />
         <option value="$PROJECT_DIR$/src/chapter7/_2/IdendityHashCodeTest.java" />
         <option value="$PROJECT_DIR$/src/chapter7/_2/IdentityHashCodeTest.java" />
         <option value="$PROJECT_DIR$/src/chapter7/_2/RuntimeTest.java" />
+        <option value="$PROJECT_DIR$/src/chapter7/_2/SystemTest.java" />
+        <option value="$PROJECT_DIR$/src/chapter7/_3/CloneTest.java" />
+        <option value="$PROJECT_DIR$/src/chapter7/_3/StringBuilderTest.java" />
+        <option value="$PROJECT_DIR$/src/chapter7/_3/RandomTest.java" />
+        <option value="$PROJECT_DIR$/src/chapter7/_3/Arith.java" />
       </list>
     </option>
   </component>
@@ -283,7 +305,7 @@
               <item name="Java_Learning" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="chapter7" type="462c0819:PsiDirectoryNode" />
-              <item name="_2" type="462c0819:PsiDirectoryNode" />
+              <item name="_3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -296,10 +318,10 @@
     <property name="SearchEverywhereHistoryKey" value="{&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551859919629" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551869376075" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -313,7 +335,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RuntimeTest">
+  <component name="RunManager" selected="Application.Arith">
+    <configuration name="Arith" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7._3.Arith" />
+      <module name="Java_Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter7._3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloneTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7._3.CloneTest" />
+      <module name="Java_Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter7._3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="IdentityHashCodeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter7._2.IdentityHashCodeTest" />
       <module name="Java_Learning" />
@@ -327,12 +375,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RuntimeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter7._2.RuntimeTest" />
+    <configuration name="RandomTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7._3.RandomTest" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter7._2.*" />
+          <option name="PATTERN" value="chapter7._3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -340,38 +388,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerFileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter7._1.ScannerFileTest" />
+    <configuration name="StringBuilderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7._3.StringBuilderTest" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter7._1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ScannerKeyBoardTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter7._1.ScannerKeyBoardTest" />
-      <module name="Java_Learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter7._1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SystemTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter7._2.SystemTest" />
-      <module name="Java_Learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter7._2.*" />
+          <option name="PATTERN" value="chapter7._3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -380,19 +402,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ScannerKeyBoardTest" />
-      <item itemvalue="Application.ScannerFileTest" />
-      <item itemvalue="Application.SystemTest" />
       <item itemvalue="Application.IdentityHashCodeTest" />
-      <item itemvalue="Application.RuntimeTest" />
+      <item itemvalue="Application.CloneTest" />
+      <item itemvalue="Application.StringBuilderTest" />
+      <item itemvalue="Application.RandomTest" />
+      <item itemvalue="Application.Arith" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RuntimeTest" />
+        <item itemvalue="Application.Arith" />
+        <item itemvalue="Application.RandomTest" />
+        <item itemvalue="Application.StringBuilderTest" />
+        <item itemvalue="Application.CloneTest" />
         <item itemvalue="Application.IdentityHashCodeTest" />
-        <item itemvalue="Application.SystemTest" />
-        <item itemvalue="Application.ScannerFileTest" />
-        <item itemvalue="Application.ScannerKeyBoardTest" />
       </list>
     </recent_temporary>
   </component>
@@ -415,18 +437,18 @@
       <workItem from="1550918858113" duration="256000" />
       <workItem from="1550919119578" duration="15273000" />
       <workItem from="1551260919613" duration="14408000" />
-      <workItem from="1551613537068" duration="26115000" />
+      <workItem from="1551613537068" duration="29927000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66545000" />
+    <option name="totallyTimeSpent" value="70357000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1874106" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1874106" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -435,7 +457,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -500,56 +522,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/chapter6/DiscernVariable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-          <folding>
-            <element signature="e#441#442#0" expanded="true" />
-            <element signature="e#472#473#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#562#563#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/SubClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-          <folding>
-            <element signature="e#150#151#0" expanded="true" />
-            <element signature="e#176#177#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/CreateStaticInnerInstance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-          <folding>
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#255#256#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/CreateInnerInstance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding>
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter6/Computer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
@@ -683,29 +655,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/AnonymousInner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="933">
-          <caret line="57" column="25" lean-forward="true" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="25" />
-          <folding>
-            <element signature="e#150#151#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#436#437#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#710#711#0" expanded="true" />
-            <element signature="e#753#754#0" expanded="true" />
-            <element signature="e#814#815#0" expanded="true" />
-            <element signature="e#857#858#0" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#401#402#0" expanded="true" />
-            <element signature="e#819#820#0" expanded="true" />
-            <element signature="e#846#847#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -919,10 +868,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter7/_1/ScannerKeyBoardTest.java">
+    <entry file="file://$PROJECT_DIR$/props.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="14" column="30" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="30" />
+        <state relative-caret-position="-959" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter7/_2/RuntimeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="57" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter6/AnonymousInner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#753#754#0" expanded="true" />
+            <element signature="e#814#815#0" expanded="true" />
+            <element signature="e#857#858#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter7/_2/SystemTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-105">
+          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -936,32 +915,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/props.txt">
+    <entry file="file://$PROJECT_DIR$/src/chapter7/_1/ScannerKeyBoardTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-959" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter7/_2/SystemTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="290">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter7/_2/IdentityHashCodeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        <state relative-caret-position="240">
+          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter7/_2/RuntimeTest.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter7/_3/CloneTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        <state relative-caret-position="-181">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+          <folding>
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter7/_3/StringBuilderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="21" column="53" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter7/_3/RandomTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter7/_3/Arith.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="66" column="4" selection-start-line="66" selection-start-column="4" selection-end-line="66" selection-end-column="4" />
         </state>
       </provider>
     </entry>
