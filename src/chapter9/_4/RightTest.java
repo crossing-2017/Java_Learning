@@ -28,5 +28,7 @@ public class RightTest {
         List<String> ls= new ArrayList<>();
 
         rightTest(ls, lo);
+
+
     }
 }
