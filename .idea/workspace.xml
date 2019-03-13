@@ -6,18 +6,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e99edb05-3518-4244-870c-22c2a135d19a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter8/_2/CollectionStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8/_2/IteratorEachTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8/_2/IteratorErrorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8/_2/IteratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8/_2/PredicateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8/_2/PredicateTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/_3/EqualsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/_3/HashSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/_3/HashSetTest2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_Learning/chapter8/CollectionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_Learning/chapter9/_4/RightTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_Learning/chapter9/_4/RightTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_Learning/chapter9/_5/Apple.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_Learning/chapter9/_5/Apple.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_Learning/chapter9/_5/ErasureTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_Learning/chapter9/_5/ErasureTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter8/CollectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter8/_2/CollectionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Learning/chapter8/_2/CollectionStreamTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_Learning/chapter8/_2/CollectionStreamTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter8/_2/CollectionStreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter8/_2/CollectionStreamTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,7 +37,7 @@
           <entry key="class" value="3" />
           <entry key="gitignore" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="181" />
+          <entry key="java" value="186" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
@@ -51,19 +45,19 @@
         <counts>
           <entry key="CLASS" value="3" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="181" />
+          <entry key="JAVA" value="186" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="37" />
-          <entry key="java" value="25568" />
+          <entry key="java" value="26292" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="25568" />
+          <entry key="JAVA" value="26292" />
           <entry key="PLAIN_TEXT" value="37" />
         </counts>
       </usages-collector>
@@ -72,58 +66,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter9/_4/GenericMethodTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="864">
-              <caret line="36" column="42" selection-start-line="36" selection-start-column="42" selection-end-line="36" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter9/_4/MyUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter9/_5/ErasureTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chapter8/_2/CollectionTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="384">
               <caret line="16" column="34" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="16" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter8/_2/IteratorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="23" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -176,14 +122,69 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chapter8/_2/CollectionStreamTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+            <state relative-caret-position="48">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter8/_3/HashSetTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-405">
+              <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+              <folding>
+                <element signature="e#212#213#0" expanded="true" />
+                <element signature="e#238#239#0" expanded="true" />
+                <element signature="e#308#309#0" expanded="true" />
+                <element signature="e#331#332#0" expanded="true" />
+                <element signature="e#388#389#0" expanded="true" />
+                <element signature="e#413#414#0" expanded="true" />
+                <element signature="e#461#462#0" expanded="true" />
+                <element signature="e#484#485#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chapter8/_3/HashSetTest2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#187#188#0" expanded="true" />
+                <element signature="e#221#222#0" expanded="true" />
+                <element signature="e#671#672#0" expanded="true" />
+                <element signature="e#702#703#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter8/_3/EqualsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="e#338#339#0" expanded="true" />
+                <element signature="e#421#422#0" expanded="true" />
+                <element signature="e#463#464#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13954">
+              <caret line="977" selection-start-line="977" selection-end-line="977" />
             </state>
           </provider>
         </entry>
@@ -205,9 +206,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/chapter6/AnonymousTest.java" />
-        <option value="$PROJECT_DIR$/src/chapter6/ProcessArray.java" />
-        <option value="$PROJECT_DIR$/src/chapter6/PrintCommand.java" />
         <option value="$PROJECT_DIR$/src/chapter6/SumCommand.java" />
         <option value="$PROJECT_DIR$/src/chapter6/Command.java" />
         <option value="$PROJECT_DIR$/src/chapter6/Solution.java" />
@@ -256,6 +254,9 @@
         <option value="$PROJECT_DIR$/src/chapter8/_2/PredicateTest.java" />
         <option value="$PROJECT_DIR$/src/chapter8/_2/PredicateTest2.java" />
         <option value="$PROJECT_DIR$/src/chapter8/_2/CollectionStreamTest.java" />
+        <option value="$PROJECT_DIR$/src/chapter8/_3/HashSetTest.java" />
+        <option value="$PROJECT_DIR$/src/chapter8/_3/HashSetTest2.java" />
+        <option value="$PROJECT_DIR$/src/chapter8/_3/EqualsTest.java" />
       </list>
     </option>
   </component>
@@ -329,7 +330,23 @@
               <item name="Java_Learning" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="chapter8" type="462c0819:PsiDirectoryNode" />
-              <item name="_2" type="462c0819:PsiDirectoryNode" />
+              <item name="_3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter8" type="462c0819:PsiDirectoryNode" />
+              <item name="_3" type="462c0819:PsiDirectoryNode" />
+              <item name="HashSetTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Java_Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter8" type="462c0819:PsiDirectoryNode" />
+              <item name="_3" type="462c0819:PsiDirectoryNode" />
+              <item name="HashSetTest2.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -344,7 +361,7 @@
     <property name="SearchEverywhereHistoryKey" value="{&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552470203877" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552479400008" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
@@ -361,7 +378,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CollectionStreamTest">
+  <component name="RunManager" selected="Application.EqualsTest">
     <configuration name="CollectionStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter8._2.CollectionStreamTest" />
       <module name="Java_Learning" />
@@ -375,12 +392,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IteratorEachTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter8._2.IteratorEachTest" />
+    <configuration name="EqualsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter8._3.EqualsTest" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter8._2.*" />
+          <option name="PATTERN" value="chapter8._3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -388,12 +405,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IteratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter8._2.IteratorTest" />
+    <configuration name="HashSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter8._3.HashSetTest" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter8._2.*" />
+          <option name="PATTERN" value="chapter8._3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -401,12 +418,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PredicateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter8._2.PredicateTest" />
+    <configuration name="HashSetTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter8._3.HashSetTest2" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter8._2.*" />
+          <option name="PATTERN" value="chapter8._3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -428,19 +445,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.IteratorTest" />
-      <item itemvalue="Application.IteratorEachTest" />
-      <item itemvalue="Application.PredicateTest" />
       <item itemvalue="Application.PredicateTest2" />
       <item itemvalue="Application.CollectionStreamTest" />
+      <item itemvalue="Application.HashSetTest" />
+      <item itemvalue="Application.HashSetTest2" />
+      <item itemvalue="Application.EqualsTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EqualsTest" />
+        <item itemvalue="Application.HashSetTest2" />
+        <item itemvalue="Application.HashSetTest" />
         <item itemvalue="Application.CollectionStreamTest" />
         <item itemvalue="Application.PredicateTest2" />
-        <item itemvalue="Application.PredicateTest" />
-        <item itemvalue="Application.IteratorEachTest" />
-        <item itemvalue="Application.IteratorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -464,18 +481,18 @@
       <workItem from="1550919119578" duration="15273000" />
       <workItem from="1551260919613" duration="14408000" />
       <workItem from="1551613537068" duration="41295000" />
-      <workItem from="1552465011829" duration="3932000" />
+      <workItem from="1552465011829" duration="6349000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85657000" />
+    <option name="totallyTimeSpent" value="88074000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18955651" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18955651" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -484,8 +501,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -548,57 +565,34 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter8/_3/EqualsTest.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter8/_3/EqualsTest.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter8/_3/EqualsTest.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/chapter6/GcTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-          <folding>
-            <element signature="e#100#101#0" expanded="true" />
-            <element signature="e#136#137#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="1013" column="23" selection-start-line="1013" selection-start-column="23" selection-end-line="1013" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#40917#40918#0" expanded="true" />
-            <element signature="e#40958#40959#0" expanded="true" />
-            <element signature="e#41780#41781#0" expanded="true" />
-            <element signature="e#41834#41835#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/FinalizeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
-          <folding>
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/ReferenceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter7/_1/ArgsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/LRUCache.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -970,10 +964,68 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter8/_2/CollectionStreamTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+        <state relative-caret-position="48">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="148" column="27" selection-start-line="148" selection-start-column="27" selection-end-line="148" selection-end-column="27" />
+          <folding>
+            <element signature="e#5748#5749#0" expanded="true" />
+            <element signature="e#5784#5785#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13954">
+          <caret line="977" selection-start-line="977" selection-end-line="977" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/_3/EqualsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/_3/HashSetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-405">
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+          <folding>
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/_3/HashSetTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#671#672#0" expanded="true" />
+            <element signature="e#702#703#0" expanded="true" />
           </folding>
         </state>
       </provider>
