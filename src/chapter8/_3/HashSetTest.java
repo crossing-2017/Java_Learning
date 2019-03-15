@@ -19,6 +19,11 @@ public class HashSetTest {
         hashSet.add(new B());
         hashSet.add(new C());
         hashSet.add(new C());
+        String s = "重地";
+        String s1 = "通话";
+        System.out.println(s.hashCode());
+        System.out.println(s1.hashCode());
+
 
 
         System.out.println(hashSet);
