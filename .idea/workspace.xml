@@ -6,18 +6,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e99edb05-3518-4244-870c-22c2a135d19a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter10/tread/demo02/GetThreadNameTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/tread/demo02/GetThreadNameTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/tread/demo02/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/tread/demo03/ThreadSleepTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/tread/demo04/RunnableImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/tread/demo04/RunnableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/tread/demo05/InnerClassThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10/tread/demo06/RunnableImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10/tread/demo06/TicketTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_Learning/chapter10/tread/Mythread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_Learning/chapter10/tread/TreadTest01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/tread/demo01/Mythread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter10/tread/demo01/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/tread/demo01/TreadTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter10/tread/demo01/TreadTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter10/tread/demo05/InnerClassThreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter10/tread/demo05/InnerClassThreadTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,7 +37,7 @@
           <entry key="class" value="3" />
           <entry key="gitignore" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="250" />
+          <entry key="java" value="252" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
@@ -54,19 +46,19 @@
           <entry key="CLASS" value="3" />
           <entry key="IDEA_MODULE" value="1" />
           <entry key="Image" value="1" />
-          <entry key="JAVA" value="250" />
+          <entry key="JAVA" value="252" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="47" />
-          <entry key="java" value="33697" />
+          <entry key="java" value="33966" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="33697" />
+          <entry key="JAVA" value="33966" />
           <entry key="PLAIN_TEXT" value="47" />
         </counts>
       </usages-collector>
@@ -74,95 +66,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter10/exception/RegisterExceptionTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="888">
-              <caret line="37" column="28" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter10/tread/demo01/TreadTest01.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter10/tread/demo02/MyThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter10/tread/demo02/GetThreadNameTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter10/tread/demo02/GetThreadNameTest1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter10/tread/demo03/ThreadSleepTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter10/tread/demo04/RunnableTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chapter10/tread/demo05/InnerClassThreadTest.java">
+        <entry file="file://$PROJECT_DIR$/src/chapter10/tread/demo06/TicketTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="27" column="17" lean-forward="true" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+            <state relative-caret-position="288">
+              <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter10/tread/demo04/RunnableImpl.java">
+        <entry file="file://$PROJECT_DIR$/src/chapter10/tread/demo06/RunnableImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter10/tread/demo01/MyThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+            <state relative-caret-position="360">
+              <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -184,8 +101,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/chapter8/_2/CollectionStreamTest.java" />
-        <option value="$PROJECT_DIR$/src/chapter8/_3/HashSetTest2.java" />
         <option value="$PROJECT_DIR$/src/chapter8/_3/EqualsTest.java" />
         <option value="$PROJECT_DIR$/src/chapter8/_3/LinkedHashSetTest.java" />
         <option value="$PROJECT_DIR$/src/chapter8/_2/Doudizhu.java" />
@@ -235,6 +150,8 @@
         <option value="$PROJECT_DIR$/src/chapter10/tread/demo04/RunnableImpl.java" />
         <option value="$PROJECT_DIR$/src/chapter10/tread/demo04/RunnableTest.java" />
         <option value="$PROJECT_DIR$/src/chapter10/tread/demo05/InnerClassThreadTest.java" />
+        <option value="$PROJECT_DIR$/src/chapter10/tread/demo06/RunnableImpl.java" />
+        <option value="$PROJECT_DIR$/src/chapter10/tread/demo06/TicketTest.java" />
       </list>
     </option>
   </component>
@@ -317,15 +234,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="chapter10" type="462c0819:PsiDirectoryNode" />
               <item name="tread" type="462c0819:PsiDirectoryNode" />
-              <item name="demo02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter10" type="462c0819:PsiDirectoryNode" />
-              <item name="tread" type="462c0819:PsiDirectoryNode" />
-              <item name="demo05" type="462c0819:PsiDirectoryNode" />
+              <item name="demo06" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -339,7 +248,7 @@
     <property name="SearchEverywhereHistoryKey" value="{&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552908071506" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552910036915" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -366,20 +275,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InnerClassThreadTest">
-    <configuration name="GetThreadNameTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter10.tread.demo02.GetThreadNameTest" />
-      <module name="Java_Learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter10.tread.demo02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TicketTest">
     <configuration name="GetThreadNameTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter10.tread.demo02.GetThreadNameTest1" />
       <module name="Java_Learning" />
@@ -432,20 +328,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TicketTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter10.tread.demo06.TicketTest" />
+      <module name="Java_Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter10.tread.demo06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.GetThreadNameTest" />
       <item itemvalue="Application.GetThreadNameTest1" />
       <item itemvalue="Application.ThreadSleepTest" />
       <item itemvalue="Application.RunnableTest" />
       <item itemvalue="Application.InnerClassThreadTest" />
+      <item itemvalue="Application.TicketTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TicketTest" />
         <item itemvalue="Application.InnerClassThreadTest" />
         <item itemvalue="Application.RunnableTest" />
         <item itemvalue="Application.ThreadSleepTest" />
         <item itemvalue="Application.GetThreadNameTest1" />
-        <item itemvalue="Application.GetThreadNameTest" />
       </list>
     </recent_temporary>
   </component>
@@ -473,12 +382,12 @@
       <workItem from="1552562463332" duration="7221000" />
       <workItem from="1552639882018" duration="14707000" />
       <workItem from="1552810487286" duration="11440000" />
-      <workItem from="1552907349237" duration="563000" />
+      <workItem from="1552907349237" duration="1774000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123471000" />
+    <option name="totallyTimeSpent" value="124682000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -594,20 +503,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/chapter9/_4/GenericConstructorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="543">
-          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="302" column="19" selection-start-line="302" selection-start-column="19" selection-end-line="302" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter9/_4/GenericMethodTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -919,13 +814,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter10/tread/demo02/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter10/tread/demo02/GetThreadNameTest1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -937,13 +825,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter10/tread/demo04/RunnableTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -968,10 +849,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter10/tread/demo04/RunnableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter10/tread/demo02/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter10/tread/demo05/InnerClassThreadTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="27" column="17" lean-forward="true" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        <state relative-caret-position="351">
+          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter10/tread/demo06/RunnableImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter10/tread/demo06/TicketTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
         </state>
       </provider>
     </entry>
