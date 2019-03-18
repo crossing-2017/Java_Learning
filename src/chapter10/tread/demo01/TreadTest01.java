@@ -26,7 +26,7 @@ public class TreadTest01 {
     public static void main(String[] args) {
 
         //3.创建Thread类的子类对象
-        Mythread mt = new Mythread();
+        MyThread mt = new MyThread();
         //4.调用Thread类中的方法start方法,开启新的线程,执行run方法
         mt.start();
 
