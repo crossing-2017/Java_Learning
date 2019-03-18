@@ -1,5 +1,7 @@
 package chapter10.tread.demo06;
 
+import chapter10.tread.demo07.RunnableImpl;
+
 /**
  * 测试线程安全问题
  * @author Crossing

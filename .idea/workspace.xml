@@ -6,10 +6,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e99edb05-3518-4244-870c-22c2a135d19a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter10/tread/demo06/RunnableImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/tread/demo06/TicketTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10/tread/demo07/RunnableImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10/tread/demo07/RunnableImpl2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10/tread/demo07/RunnableImpl3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10/tread/demo07/RunnableImpl4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10/tread/demo07/SynchronizedTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/tread/demo05/InnerClassThreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter10/tread/demo05/InnerClassThreadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Learning/chapter10/tread/demo06/TicketTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_Learning/chapter10/tread/demo06/TicketTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter10/tread/demo06/RunnableImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter10/tread/demo06/RunnableImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter10/tread/demo06/TicketTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter10/tread/demo06/TicketTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,41 +41,41 @@
           <entry key="bmp" value="1" />
           <entry key="class" value="3" />
           <entry key="gitignore" value="1" />
-          <entry key="iml" value="1" />
-          <entry key="java" value="252" />
+          <entry key="iml" value="2" />
+          <entry key="java" value="258" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="3" />
-          <entry key="IDEA_MODULE" value="1" />
+          <entry key="IDEA_MODULE" value="2" />
           <entry key="Image" value="1" />
-          <entry key="JAVA" value="252" />
+          <entry key="JAVA" value="258" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="47" />
-          <entry key="java" value="33966" />
+          <entry key="dummy" value="48" />
+          <entry key="java" value="34373" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="33966" />
-          <entry key="PLAIN_TEXT" value="47" />
+          <entry key="JAVA" value="34373" />
+          <entry key="PLAIN_TEXT" value="48" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chapter10/tread/demo06/TicketTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+            <state relative-caret-position="384">
+              <caret line="20" column="5" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -78,10 +83,63 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chapter10/tread/demo06/RunnableImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+            <state relative-caret-position="168">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter10/tread/demo07/SynchronizedTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chapter10/tread/demo07/RunnableImpl4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="341">
+              <caret line="46" column="53" selection-start-line="46" selection-start-column="53" selection-end-line="46" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter10/tread/demo07/RunnableImpl3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" selection-start-line="2" selection-end-line="6" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter10/tread/demo07/RunnableImpl2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter10/tread/demo07/RunnableImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="34" column="17" lean-forward="true" selection-start-line="31" selection-start-column="16" selection-end-line="34" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Java_Learning.iml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -101,13 +159,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/chapter8/_3/EqualsTest.java" />
-        <option value="$PROJECT_DIR$/src/chapter8/_3/LinkedHashSetTest.java" />
-        <option value="$PROJECT_DIR$/src/chapter8/_2/Doudizhu.java" />
-        <option value="$PROJECT_DIR$/src/chapter8/_3/HashSetTest.java" />
-        <option value="$PROJECT_DIR$/src/chapter8/_3/Person.java" />
-        <option value="$PROJECT_DIR$/src/chapter8/_3/HashSetTest3.java" />
-        <option value="$PROJECT_DIR$/src/chapter8/_3/Varargs.java" />
         <option value="$PROJECT_DIR$/src/chapter8/collections/Collections.java" />
         <option value="$PROJECT_DIR$/src/chapter8/collections/SortTest.java" />
         <option value="$PROJECT_DIR$/src/chapter8/collections/Person.java" />
@@ -150,8 +201,15 @@
         <option value="$PROJECT_DIR$/src/chapter10/tread/demo04/RunnableImpl.java" />
         <option value="$PROJECT_DIR$/src/chapter10/tread/demo04/RunnableTest.java" />
         <option value="$PROJECT_DIR$/src/chapter10/tread/demo05/InnerClassThreadTest.java" />
-        <option value="$PROJECT_DIR$/src/chapter10/tread/demo06/RunnableImpl.java" />
         <option value="$PROJECT_DIR$/src/chapter10/tread/demo06/TicketTest.java" />
+        <option value="$PROJECT_DIR$/src/chapter10/tread/demo06/SychronizedTest.java" />
+        <option value="$PROJECT_DIR$/src/chapter10/tread/demo06/RunnableImpl.java" />
+        <option value="$PROJECT_DIR$/src/chapter10/tread/demo07/SychronizedTest.java" />
+        <option value="$PROJECT_DIR$/src/chapter10/tread/demo07/SynchronizedTest.java" />
+        <option value="$PROJECT_DIR$/src/chapter10/tread/demo07/RunnableImpl.java" />
+        <option value="$PROJECT_DIR$/src/chapter10/tread/demo07/RunnableImpl2.java" />
+        <option value="$PROJECT_DIR$/src/chapter10/tread/demo07/RunnableImpl3.java" />
+        <option value="$PROJECT_DIR$/src/chapter10/tread/demo07/RunnableImpl4.java" />
       </list>
     </option>
   </component>
@@ -228,14 +286,6 @@
               <item name="chapter10" type="462c0819:PsiDirectoryNode" />
               <item name="tread" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Java_Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter10" type="462c0819:PsiDirectoryNode" />
-              <item name="tread" type="462c0819:PsiDirectoryNode" />
-              <item name="demo06" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -248,7 +298,7 @@
     <property name="SearchEverywhereHistoryKey" value="{&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552910036915" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552920000414" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -256,6 +306,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chapter10.tread.demo06" />
       <recent name="chapter8.maps" />
       <recent name="chapter8.collections" />
     </key>
@@ -275,20 +326,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TicketTest">
-    <configuration name="GetThreadNameTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter10.tread.demo02.GetThreadNameTest1" />
-      <module name="Java_Learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter10.tread.demo02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="InnerClassThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter10.tread.demo05.InnerClassThreadTest" />
       <module name="Java_Learning" />
@@ -315,6 +353,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SynchronizedTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter10.tread.demo07.SynchronizedTest" />
+      <module name="Java_Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter10.tread.demo07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ThreadSleepTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter10.tread.demo03.ThreadSleepTest" />
       <module name="Java_Learning" />
@@ -333,7 +384,7 @@
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter10.tread.demo06.*" />
+          <option name="PATTERN" value="chapter10.tread.demo07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -342,19 +393,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.GetThreadNameTest1" />
       <item itemvalue="Application.ThreadSleepTest" />
       <item itemvalue="Application.RunnableTest" />
       <item itemvalue="Application.InnerClassThreadTest" />
       <item itemvalue="Application.TicketTest" />
+      <item itemvalue="Application.SynchronizedTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SynchronizedTest" />
         <item itemvalue="Application.TicketTest" />
         <item itemvalue="Application.InnerClassThreadTest" />
         <item itemvalue="Application.RunnableTest" />
         <item itemvalue="Application.ThreadSleepTest" />
-        <item itemvalue="Application.GetThreadNameTest1" />
       </list>
     </recent_temporary>
   </component>
@@ -382,12 +433,12 @@
       <workItem from="1552562463332" duration="7221000" />
       <workItem from="1552639882018" duration="14707000" />
       <workItem from="1552810487286" duration="11440000" />
-      <workItem from="1552907349237" duration="1774000" />
+      <workItem from="1552907349237" duration="5865000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="124682000" />
+    <option name="totallyTimeSpent" value="128773000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -400,9 +451,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7594255" visible="true" weight="0.20028612" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7594255" visible="true" weight="0.20028612" />
       <window_info id="Structure" order="1" sideWeight="0.24057451" side_tool="true" visible="true" weight="0.20028612" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -411,14 +461,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32891566" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4985694" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4985694" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50143063" side_tool="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32891566" />
       <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.32891566" />
@@ -503,48 +553,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/chapter9/_4/GenericMethodTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="23" column="39" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter9/_3/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/FinalizeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Objects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="127" column="26" selection-start-line="127" selection-start-column="26" selection-end-line="127" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter8/_2/CollectionStreamTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter8/_3/HashSetTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/HashSet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1944">
@@ -872,15 +880,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter10/tread/demo06/RunnableImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        <state relative-caret-position="168">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter10/tread/demo06/TicketTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        <state relative-caret-position="384">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java_Learning.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter10/tread/demo07/SynchronizedTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter10/tread/demo07/RunnableImpl2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter10/tread/demo07/RunnableImpl3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" selection-start-line="2" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter10/tread/demo07/RunnableImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="34" column="17" lean-forward="true" selection-start-line="31" selection-start-column="16" selection-end-line="34" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter10/tread/demo07/RunnableImpl4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="46" column="53" selection-start-line="46" selection-start-column="53" selection-end-line="46" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
