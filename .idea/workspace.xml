@@ -6,13 +6,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e99edb05-3518-4244-870c-22c2a135d19a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter11/objectstream/OutputStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter11/objectstream/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter11/printstream/PrintStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter11/reversestream/OutputStreamWriterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter12/fileupload/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter12/fileupload/TCPUploadFileClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter12/fileupload/TCPUploadFileServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter12/fileupload/TcpUploadFileServerWithThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter12/tcp/TCPClientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter12/tcp/TCPServerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_Learning/chapter11/buffer/out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_Learning/chapter11/buffer/out.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,123 +40,44 @@
           <entry key="class" value="3" />
           <entry key="gitignore" value="1" />
           <entry key="iml" value="2" />
-          <entry key="java" value="324" />
+          <entry key="java" value="344" />
+          <entry key="jpg" value="7" />
           <entry key="kt" value="1" />
-          <entry key="txt" value="24" />
+          <entry key="txt" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="3" />
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="Image" value="1" />
-          <entry key="JAVA" value="324" />
+          <entry key="Image" value="8" />
+          <entry key="JAVA" value="344" />
           <entry key="Kotlin" value="1" />
-          <entry key="PLAIN_TEXT" value="25" />
+          <entry key="PLAIN_TEXT" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="50" />
-          <entry key="java" value="40988" />
+          <entry key="java" value="42619" />
           <entry key="txt" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="40988" />
+          <entry key="JAVA" value="42619" />
           <entry key="PLAIN_TEXT" value="83" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter11/buffer/BufferedInputStreamTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="768">
-              <caret line="35" column="77" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="77" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter11/buffer/BufferedReaderTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter11/buffer/in.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" selection-start-column="1" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter11/buffer/BufferedTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter11/reversestream/OutputStreamWriterTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="85" selection-start-line="8" selection-start-column="85" selection-end-line="8" selection-end-column="85" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter11/objectstream/OutputStreamTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="26" column="115" lean-forward="true" selection-start-line="26" selection-start-column="78" selection-end-line="26" selection-end-column="115" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter11/objectstream/person.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter11/objectstream/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="34" column="40" lean-forward="true" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chapter11/printstream/PrintStreamTest.java">
+        <entry file="file://$PROJECT_DIR$/src/chapter12/fileupload/TcpUploadFileServerWithThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+            <state relative-caret-position="264">
+              <caret line="21" column="119" selection-start-line="21" selection-start-column="119" selection-end-line="21" selection-end-column="119" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -165,8 +86,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter11/buffer/out.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/chapter12/fileupload/TCPUploadFileClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -188,12 +116,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/chapter10/lambda/CookTest.java" />
-        <option value="$PROJECT_DIR$/src/chapter10/lambda/demo01/CookTest.java" />
-        <option value="$PROJECT_DIR$/src/chapter10/lambda/demo02/Person.java" />
-        <option value="$PROJECT_DIR$/src/chapter10/lambda/demo02/LamdaTest.java" />
-        <option value="$PROJECT_DIR$/src/chapter10/lambda/demo02/LambdaTest.java" />
-        <option value="$PROJECT_DIR$/src/chapter10/lambda/demo03/Calculator.java" />
         <option value="$PROJECT_DIR$/src/chapter10/lambda/demo03/CalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/chapter11/FileTest.java" />
         <option value="$PROJECT_DIR$/src/chapter11/file/FileTest.java" />
@@ -239,6 +161,12 @@
         <option value="$PROJECT_DIR$/src/chapter11/objectstream/OutputStreamTest.java" />
         <option value="$PROJECT_DIR$/src/chapter11/objectstream/Person.java" />
         <option value="$PROJECT_DIR$/src/chapter11/printstream/PrintStreamTest.java" />
+        <option value="$PROJECT_DIR$/src/chapter12/TCPServerTest.java" />
+        <option value="$PROJECT_DIR$/src/chapter12/TCPClientTest.java" />
+        <option value="$PROJECT_DIR$/src/chapter12/tcp/TCPClientTest.java" />
+        <option value="$PROJECT_DIR$/src/chapter12/fileupload/TCPUploadFileServer.java" />
+        <option value="$PROJECT_DIR$/src/chapter12/fileupload/TCPUploadFileClient.java" />
+        <option value="$PROJECT_DIR$/src/chapter12/fileupload/TcpUploadFileServerWithThread.java" />
       </list>
     </option>
   </component>
@@ -313,14 +241,34 @@
               <item name="Java_Learning" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="chapter11" type="462c0819:PsiDirectoryNode" />
-              <item name="objectstream" type="462c0819:PsiDirectoryNode" />
+              <item name="buffer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java_Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_Learning" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="chapter11" type="462c0819:PsiDirectoryNode" />
-              <item name="printstream" type="462c0819:PsiDirectoryNode" />
+              <item name="reversestream" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter12" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter12" type="462c0819:PsiDirectoryNode" />
+              <item name="fileupload" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter12" type="462c0819:PsiDirectoryNode" />
+              <item name="tcp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -334,7 +282,7 @@
     <property name="SearchEverywhereHistoryKey" value="{&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553227992348" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553251649533" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -344,18 +292,19 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/chapter11/buffer" />
-      <recent name="$PROJECT_DIR$/src/chapter10/exception" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/chapter11/IO/outputstream" />
+      <recent name="$PROJECT_DIR$/src/chapter11/file/123" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="chapter10.tread.demo06" />
       <recent name="chapter8.maps" />
       <recent name="chapter8.collections" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/chapter11/IO/outputstream" />
-      <recent name="$PROJECT_DIR$/src/chapter11/file/123" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/chapter12/fileupload" />
+      <recent name="$PROJECT_DIR$/src/chapter11/buffer" />
+      <recent name="$PROJECT_DIR$/src/chapter10/exception" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -370,13 +319,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PrintStreamTest">
-    <configuration name="BufferedInputStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter11.buffer.BufferedInputStreamTest" />
+  <component name="RunManager" selected="Application.TCPUploadFileClient">
+    <configuration name="TCPClientTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter12.tcp.TCPClientTest" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter11.buffer.*" />
+          <option name="PATTERN" value="chapter12.tcp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -384,12 +333,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BufferedReaderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter11.buffer.BufferedReaderTest" />
+    <configuration name="TCPServerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter12.tcp.TCPServerTest" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter11.buffer.*" />
+          <option name="PATTERN" value="chapter12.tcp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -397,12 +346,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BufferedTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter11.buffer.BufferedTest" />
+    <configuration name="TCPUploadFileClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter12.fileupload.TCPUploadFileClient" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter11.buffer.*" />
+          <option name="PATTERN" value="chapter12.fileupload.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -410,12 +359,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OutputStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter11.objectstream.OutputStreamTest" />
+    <configuration name="TCPUploadFileServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter12.fileupload.TCPUploadFileServer" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter11.objectstream.*" />
+          <option name="PATTERN" value="chapter12.fileupload.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -423,12 +372,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter11.printstream.PrintStreamTest" />
+    <configuration name="TcpUploadFileServerWithThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter12.fileupload.TcpUploadFileServerWithThread" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter11.printstream.*" />
+          <option name="PATTERN" value="chapter12.fileupload.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -437,19 +386,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BufferedInputStreamTest" />
-      <item itemvalue="Application.BufferedReaderTest" />
-      <item itemvalue="Application.BufferedTest" />
-      <item itemvalue="Application.OutputStreamTest" />
-      <item itemvalue="Application.PrintStreamTest" />
+      <item itemvalue="Application.TCPServerTest" />
+      <item itemvalue="Application.TCPClientTest" />
+      <item itemvalue="Application.TCPUploadFileServer" />
+      <item itemvalue="Application.TCPUploadFileClient" />
+      <item itemvalue="Application.TcpUploadFileServerWithThread" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrintStreamTest" />
-        <item itemvalue="Application.OutputStreamTest" />
-        <item itemvalue="Application.BufferedTest" />
-        <item itemvalue="Application.BufferedReaderTest" />
-        <item itemvalue="Application.BufferedInputStreamTest" />
+        <item itemvalue="Application.TCPUploadFileClient" />
+        <item itemvalue="Application.TcpUploadFileServerWithThread" />
+        <item itemvalue="Application.TCPUploadFileServer" />
+        <item itemvalue="Application.TCPClientTest" />
+        <item itemvalue="Application.TCPServerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -480,12 +429,12 @@
       <workItem from="1552907349237" duration="30434000" />
       <workItem from="1553058018155" duration="14621000" />
       <workItem from="1553228015634" duration="742000" />
-      <workItem from="1553229151771" duration="636000" />
+      <workItem from="1553229151771" duration="8452000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="169341000" />
+    <option name="totallyTimeSpent" value="177157000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -500,8 +449,8 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.79518074" visible="true" weight="0.20886981" />
-      <window_info id="Structure" order="1" sideWeight="0.20481928" side_tool="true" visible="true" weight="0.20886981" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7935368" visible="true" weight="0.20886981" />
+      <window_info id="Structure" order="1" sideWeight="0.2064632" side_tool="true" visible="true" weight="0.20886981" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -509,7 +458,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -613,69 +562,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/chapter11/file/123/b.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter11/recursion/RecursionTest1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="2" selection-start-line="2" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter11/recursion/RecursionTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter11/recursion/RecursionTest3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter11/file/FileTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter11/recursion/RecursionTest4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="12" column="25" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter11/filter/FileFilterImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter11/filter/FilterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="36" column="33" lean-forward="true" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter11/filter/FilterTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1104">
-          <caret line="46" column="26" lean-forward="true" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter11/file/FileTest1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-283">
@@ -797,18 +683,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter11/properties/PropertiesTest1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="738">
-          <caret line="40" column="50" selection-start-line="40" selection-start-column="50" selection-end-line="40" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter11/file/FileTest4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-306">
@@ -855,6 +729,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="329">
           <caret line="41" column="53" selection-start-line="41" selection-start-column="53" selection-end-line="41" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -879,16 +756,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="840">
           <caret line="38" column="79" selection-start-line="38" selection-start-column="53" selection-end-line="38" selection-end-column="79" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter11/buffer/BufferedInputStreamTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="768">
-          <caret line="35" column="77" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="77" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -922,29 +789,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter11/reversestream/OutputStreamWriterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="85" selection-start-line="8" selection-start-column="85" selection-end-line="8" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter11/objectstream/person.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter11/buffer/out.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter11/objectstream/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter11/printstream/PrintStreamTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="34" column="40" lean-forward="true" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
+        <state relative-caret-position="480">
+          <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter11/printstream/a.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter11/objectstream/OutputStreamTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
+        <state relative-caret-position="233">
           <caret line="26" column="115" lean-forward="true" selection-start-line="26" selection-start-column="78" selection-end-line="26" selection-end-column="115" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -952,10 +822,97 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter11/printstream/PrintStreamTest.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter11/properties/PropertiesTest1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+        <state relative-caret-position="97">
+          <caret line="40" column="50" selection-start-line="40" selection-start-column="50" selection-end-line="40" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter11/objectstream/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="34" column="40" lean-forward="true" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/net/Socket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="940" column="24" selection-start-line="940" selection-start-column="24" selection-end-line="940" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter11/buffer/BufferedInputStreamTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter12/fileupload/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter11/reversestream/OutputStreamWriterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="8" column="85" selection-start-line="8" selection-start-column="85" selection-end-line="8" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter12/fileupload/2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter12/tcp/TCPServerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="45" column="23" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter12/tcp/TCPClientTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="57" column="54" lean-forward="true" selection-start-line="56" selection-start-column="12" selection-end-line="57" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter12/fileupload/TCPUploadFileServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter12/fileupload/TCPUploadFileClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter12/fileupload/TcpUploadFileServerWithThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="21" column="119" selection-start-line="21" selection-start-column="119" selection-end-line="21" selection-end-column="119" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
