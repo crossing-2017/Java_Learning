@@ -15,6 +15,10 @@ public class TcpUploadFileServerWithThread {
         while (true){
             Socket socket = ss.accept();
 
+            /**
+             * 使用多线程技术,提高程序的效率
+             * 有一个客户端上传文件,就开启一个线程,完成文件的上传
+             */
             new Thread(() -> {
                 try {
                     InputStream is = socket.getInputStream();
